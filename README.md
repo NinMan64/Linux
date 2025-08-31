@@ -52,7 +52,7 @@ install This, which is out of scope of this guide.
 [BalenaEtcher](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://etcher.balena.io/&ved=2ahUKEwjlm5fVmrSPAxUvn68BHcEGLpcQFnoECB8QAQ&usg=AOvVaw3qmwskOrLYXXgXtycdQXNa "Use a USB Drive!")
 
 This link downloads the BalenaEtcher Windows
-Apo, which is needed to create the Install Media.
+App which is needed to create the Install Media.
 
 [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-13.0.0-amd64-DVD-1.iso "For PCs that run like Crap")
 
@@ -191,4 +191,11 @@ exit - exit terminal
 # End of Tutorial!
 ©2025 NinMan64 Productions
 v1.0
+
+
+.. .. . .. ..   . ..       ..
+.. ..   .. .      ..       .
+         .        ..
+                  ..
+
 
