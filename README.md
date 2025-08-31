@@ -10,7 +10,8 @@ easy or really hard.
 
 Welcome to a long-time user's POV on How to
 Switch to Linux.
-------------------------------------------
+
+
 # WHAT IS A LINUX?
 Linux is actually NOT an operating System
 itself, it is a Kernel (the heart of the OS)
@@ -22,14 +23,15 @@ For Example:
 Ubuntu is a Linux Distro for Normal Users.
 Debian is a Linux Distro for Server Users.
 Android is a Linux Distro for Phones.
-------------------------------------------
+
+
 # Links
 These Links are here for - Well idk.
 
-Ubuntu)
 These are links to the ISOs You'll need
 for later.
-------------------------------------------
+
+
 [Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop/thank-you?version=24.04.3&architecture=amd64&lts=true "Ubuntu with Long Updates")
 
 This link downloads the iso for Ubuntu 
@@ -39,7 +41,8 @@ as the case for Ubuntu 16.04 LTS. Ubuntu
 24.04 LTS lasts until April 2029 without
 An ESM Subscription and until April 2034 
 With Said Subscription.
-------------------------------------------
+
+
 [Ubuntu 25.04](https://releases.ubuntu.com/plucky/ubuntu-25.04-desktop-amd64.iso "Ubuntu With Latest Features")
 
 This Link downloads the iso for Ubuntu 
@@ -47,22 +50,26 @@ This Link downloads the iso for Ubuntu
 as much Software updates as 24.04 but it
 includes newer features such as GNOME 48 
 and rust.
-------------------------------------------
+
+
 [Ubuntu Asahi Linux (for M1 and M2 Series Macs only!)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ubuntuasahi.org/&ved=2ahUKEwi6pb_BmrSPAxWqnq8BHQbsJfQQFnoECAsQAQ&usg=AOvVaw3ijN5JlDKz7tfvy4HhQ2_J "Ubuntu for overpriced Workstations")
 
 This link redirects you to the Ubuntu Asahi
 Linux Website, which has a guide on how to 
 install This, which is out of scope of this guide.
-------------------------------------------
+
+
 [BalenaEtcher](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://etcher.balena.io/&ved=2ahUKEwjlm5fVmrSPAxUvn68BHcEGLpcQFnoECB8QAQ&usg=AOvVaw3qmwskOrLYXXgXtycdQXNa "Use a USB Drive!")
 
 This link downloads the BalenaEtcher Windows
 App which is needed to create the Install Media.
-------------------------------------------
-[Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-13.0.0-amd64-DVD-1.iso "For PCs that run like Crap")
+
+
+[Debian 13 "Trixie"](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-13.0.0-amd64-DVD-1.iso "For PCs that run like Crap")
 
 Use this instead of Ubuntu if your PC Doesn't reach the Requirements.
-------------------------------------------
+
+
 # How To Install
 What you'll need:
 1 USB Drive with 8gb Capacity 
@@ -76,7 +83,8 @@ Any of the ISOs Used (Ubuntu 24.04, 25.04,
 or Debian Trixie)
 
 BalenaEtcher Installed
-------------------------------------------
+
+
 # Step 1: Create Install Media
 You'll need:
 
@@ -217,6 +225,7 @@ exit - exit terminal
 
 v1.1
 
+[<-](http://ninman64.github.io/home/ "Go Back!")
 
 .... .... . ..... ...   . ........       .
 
